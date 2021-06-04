@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Disponible at https://wisecoin.vercel.app/
+- email: li@li.com
+- password: 123
 
 ## Available Scripts
 
